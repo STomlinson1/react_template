@@ -1,10 +1,12 @@
 import React from 'react';
 
-import './app.scss';
+import './App.scss';
+
+import Header from '../header/Header';
 
 const App = () => (
 	<div>
-		<h1>React Template</h1>
+		<Header />
 	</div>
 );
 
