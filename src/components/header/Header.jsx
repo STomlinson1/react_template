@@ -4,7 +4,7 @@ import './Header.scss';
 
 const Header = () => (
 	<header>
-		<h1>React Template</h1>
+		<h1>React Template w/Sass</h1>
 	</header>
 );
 
